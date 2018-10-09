@@ -1,2 +1,2 @@
 # PHP-and-SQL-practice-projects
-This are book examples practiced.
+These are book examples practiced for Learning Purpose.
